@@ -1,0 +1,15 @@
+D:\Workspace\c#\RehostingTheDesigner\HostingApplication\bin\Debug\HostingApplication.exe.config
+D:\Workspace\c#\RehostingTheDesigner\HostingApplication\bin\Debug\HostingApplication.exe
+D:\Workspace\c#\RehostingTheDesigner\HostingApplication\bin\Debug\HostingApplication.pdb
+D:\Workspace\c#\RehostingTheDesigner\HostingApplication\obj\Debug\HostingApplication.csproj.AssemblyReference.cache
+D:\Workspace\c#\RehostingTheDesigner\HostingApplication\obj\Debug\MainWindow.g.cs
+D:\Workspace\c#\RehostingTheDesigner\HostingApplication\obj\Debug\App.g.cs
+D:\Workspace\c#\RehostingTheDesigner\HostingApplication\obj\Debug\HostingApplication_MarkupCompile.cache
+D:\Workspace\c#\RehostingTheDesigner\HostingApplication\obj\Debug\HostingApplication_MarkupCompile.lref
+D:\Workspace\c#\RehostingTheDesigner\HostingApplication\obj\Debug\MainWindow.baml
+D:\Workspace\c#\RehostingTheDesigner\HostingApplication\obj\Debug\HostingApplication.g.resources
+D:\Workspace\c#\RehostingTheDesigner\HostingApplication\obj\Debug\HostingApplication.Properties.Resources.resources
+D:\Workspace\c#\RehostingTheDesigner\HostingApplication\obj\Debug\HostingApplication.csproj.GenerateResource.cache
+D:\Workspace\c#\RehostingTheDesigner\HostingApplication\obj\Debug\HostingApplication.csproj.CoreCompileInputs.cache
+D:\Workspace\c#\RehostingTheDesigner\HostingApplication\obj\Debug\HostingApplication.exe
+D:\Workspace\c#\RehostingTheDesigner\HostingApplication\obj\Debug\HostingApplication.pdb
